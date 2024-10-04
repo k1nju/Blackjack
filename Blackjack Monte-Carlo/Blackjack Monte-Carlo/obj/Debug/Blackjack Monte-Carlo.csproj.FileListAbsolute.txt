@@ -1,0 +1,7 @@
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\bin\Debug\Blackjack Monte-Carlo.exe.config
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\bin\Debug\Blackjack Monte-Carlo.exe
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\bin\Debug\Blackjack Monte-Carlo.pdb
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\obj\Debug\Blackjack Monte-Carlo.csproj.AssemblyReference.cache
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\obj\Debug\Blackjack Monte-Carlo.csproj.CoreCompileInputs.cache
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\obj\Debug\Blackjack Monte-Carlo.exe
+C:\Users\Academy\source\repos\Blackjack Monte-Carlo\Blackjack Monte-Carlo\obj\Debug\Blackjack Monte-Carlo.pdb
